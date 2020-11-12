@@ -6,7 +6,4 @@ jobs:
       
     steps:
       - checkout
-      
-      - run:
-          name: mi nombre
-          command: echo Omar Doussas Sanchis"
+      - run: echo "Omar Doussas Sanchis"
