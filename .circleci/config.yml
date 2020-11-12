@@ -6,5 +6,4 @@ jobs:
       
     steps:
       - checkout
-      - run: 
-          name: Omar Doussas Sanchis
+      - run: echo "Omar Doussas Sanchis"
