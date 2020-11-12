@@ -6,4 +6,4 @@ jobs:
       
     steps:
       - checkout
-      - run: echo Omar Doussas Sanchis
+      - run: echo Omar
